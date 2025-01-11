@@ -5,7 +5,7 @@ Loom Video Link: https://www.loom.com/share/ae37c33c85ac438ca54c8e85d3268811?sid
 
 Requirements - 
 1. Crawl domains and store product links
-2. Get all product links
+2. Get all product links fetched
 3. Get all the websites parsed
 4. Handle infinite scrolling and pagination crawling 
 
