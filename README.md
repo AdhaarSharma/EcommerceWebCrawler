@@ -7,7 +7,10 @@ Requirements -
 1. Crawl domains and store product links
 2. Get all product links fetched
 3. Get all the websites parsed
-4. Handle infinite scrolling and pagination crawling 
+4. Handle infinite scrolling and pagination crawling
+5. Handle parallel asynchronous crawling of multiple domains at once
+
+All the above requirements were taken care care of during the implementation of the project
 
 Implementation -
 1. Thought of the entities - 1) Product 2) Website 3) DomainKeyset
