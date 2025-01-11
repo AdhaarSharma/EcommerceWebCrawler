@@ -21,7 +21,7 @@ Implementation -
 Kindly watch the video given above for indepth explaination and demonstration.
 
 Future scope - 
-1. We can use the webcrawler for getting the analytics on different product. For eg. we can see which product are trending for long time, which are the best sellers, which one go out of stock soon, or find some kind of relationship between products from different ecommerce website to understand market demand in a better manner
+1. We can use the webcrawler for getting the analytics on different products. For eg. we can see which product are trending for long time, which are the best sellers, which one go out of stock soon, or find some kind of relationship between products from different ecommerce website to understand market demand in a better manner
 2. We can use headless browser drivers in Selenium and try to find a way to partially load the page in a such a way that we get all the links but nothing more (unnecessary media - images, audio, video etc)
 3. We can increase the depth of the crawler furthermore
 4. We can get already fetched product links for a particular website
