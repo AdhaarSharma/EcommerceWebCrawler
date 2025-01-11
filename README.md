@@ -7,6 +7,7 @@ Requirements -
 1. Crawl domains and store product links
 2. Get all product links
 3. Get all the websites parsed
+4. Handle infinite scrolling and pagination crawling 
 
 Implementation -
 1. Thought of the entities - 1) Product 2) Website 3) DomainKeyset
